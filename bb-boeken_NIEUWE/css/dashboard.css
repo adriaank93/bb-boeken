@@ -1,0 +1,9 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.balk {
+    background-color: lightgrey;
+    height: 100px;
+    opacity: 0.95;
+}
